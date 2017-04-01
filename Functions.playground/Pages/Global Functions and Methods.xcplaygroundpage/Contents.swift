@@ -64,6 +64,7 @@ func placeFirstLetterLast(_ myString: String) -> String {
 
 placeFirstLetterLast("Richard")
 
+// Arrays and Dictionaries
 class MovieArchive {
     func filterByYear(year: Int, movies: Dictionary<String, Int>) -> [String] {
         var filteredArray = [String]()
